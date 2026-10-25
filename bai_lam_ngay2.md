@@ -88,5 +88,5 @@ grep "WARNING" logs/payment.log | wc -l >> logs/tong_hop_ngay2.txt
 
 ## Tự chấm (điền sau khi có đáp án)
 
-- **Điểm tự chấm:** ..100../100
+- **Điểm tự chấm:** ..96../100
 - **Lỗi mình đã mắc và cách sửa:**
